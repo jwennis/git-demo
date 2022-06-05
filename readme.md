@@ -1,3 +1,4 @@
+# Git demo
 Just testing out some git stuff
 #### Create local repository
 Navigate to project directory, initialize local repo
