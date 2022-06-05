@@ -1,5 +1,5 @@
 Just testing out some git stuff
-#### Create local epository
+#### Create local repository
 Navigate to project directory, initialize local repo
 ```
 $ cd "path/to/repo"
